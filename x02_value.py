@@ -56,7 +56,7 @@ def value(hand):
       
   
       
-"""
+
 
 def main():
   assert value(['AH','3D','4S']) == [8,18]
@@ -66,4 +66,3 @@ def main():
 
 if __name__ == "__name__":
   main()
-"""
